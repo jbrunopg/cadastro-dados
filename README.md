@@ -28,4 +28,4 @@ Construir um sistema de cadastro de dados pessoais (CRUD)
 
 ## Agradecimento
 
-Agradeço ao canal do <a href="https://www.youtube.com/watch?v=BSqtIw_hW8M" Eliel Cruz /> pelo modelo do projeto
+Agradeço ao canal do <a href="https://www.youtube.com/watch?v=BSqtIw_hW8M"> Eliel Cruz</a> pelo modelo do projeto
